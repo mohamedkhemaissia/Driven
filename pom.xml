@@ -4,7 +4,6 @@
   <artifactId>Driven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad -->
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
 <dependency>
     <groupId>org.apache.poi</groupId>
